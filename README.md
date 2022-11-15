@@ -1,9 +1,11 @@
 ### This module is used to display the status of fcitx5 input method (zh or en)
 
 
-preview
+#### preview
+https://github.com/hulutouer/polybar-fcitx5-module/blob/main/screenshot/fcitx5.gif
 
-
+#### and
+https://github.com/hulutouer/polybar-fcitx5-module/blob/main/screenshot/fcitx5-2.gif
 
 
 
