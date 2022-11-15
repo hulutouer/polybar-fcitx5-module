@@ -2,10 +2,10 @@
 
 
 #### preview
-https://github.com/hulutouer/polybar-fcitx5-module/blob/main/screenshot/fcitx5.gif
+![[https://github.com/hulutouer/polybar-fcitx5-module/blob/main/screenshot/fcitx5.gif]]
 
 #### and
-https://github.com/hulutouer/polybar-fcitx5-module/blob/main/screenshot/fcitx5-2.gif
+![[https://github.com/hulutouer/polybar-fcitx5-module/blob/main/screenshot/fcitx5-2.gif]]
 
 
 
