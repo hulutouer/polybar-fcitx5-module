@@ -17,7 +17,7 @@
 type = custom/script
 format-prefix = " "
 exec = [[ $(fcitx5-remote) -eq 2 ]] &&echo "zh" || echo "en"
-interval = 0.3
+interval = 1
 format-prefix-foreground = ${colors.primary}
 ```
 
